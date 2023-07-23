@@ -9,5 +9,5 @@ Drone swarms play a critical role in modern delivery systems, and ensuring their
 
 ## Dataset
 
-To train and evaluate the SDaaS Failure Detection algorithm, we used the Oxford Battery Degradation Dataset, available at the following link: [Oxford Battery Degradation Dataset](https://ora.ox.ac.uk/objects/uuid:03ba4b01-cfed-46d3-9b1a-7d4a7bdf6fac). Please download the dataset from the link and place it in the directory before running the code.
+To train and evaluate the SDaaS Failure Detection algorithm, we used the Oxford Battery Degradation Dataset, available at the following link: [Oxford Battery Degradation Dataset](https://ora.ox.ac.uk/objects/uuid:03ba4b01-cfed-46d3-9b1a-7d4a7bdf6fac). Please download the dataset "Oxford_Battery_Degradation_Dataset_1.mat" from the link and place it in the directory before running the code.
 
